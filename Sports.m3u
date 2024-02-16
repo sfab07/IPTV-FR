@@ -1,13 +1,11 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS (1080p)
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE (1080p)
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1 (720p)
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1 (720p)
 https://d3awaj0f2u3w26.cloudfront.net/11/media.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2 (720p)
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2 (720p)
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV (720p)
+#EXTINF:0 tvg-id="LEquipe21.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV (720p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
