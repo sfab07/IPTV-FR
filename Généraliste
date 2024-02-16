@@ -1,52 +1,58 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC (1080p)
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1 (1080p)
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA3NjY5ODU2LCJnaWQiOiIyN2I1Nzc4ZS1kMzJjLTRiM2EtYWJhNC00ZDZmY2Q0ODVjMGEiLCJpYXQiOjE3MDc2NTU0NTYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIyN2I1Nzc4ZS1kMzJjLTRiM2EtYWJhNC00ZDZmY2Q0ODVjMGEifQ.ZuYefUOQFtmqbjx0zZrj4Pxckv1_3v6fesB_qo-weiQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png", TF1 Series Films (1080p)
+https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png", TFX (1080p)
+https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (1080p)
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (1080p)
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 (1080p)
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (1080p)
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", M6 (1080p)
-http://livetv.ktv.zone/8/play.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (1080p)
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://arte-cmafhls.akamaized.net/am/cmaf-webonly/095000/095800/095842-001-A_VA/230621005738/medias/095842-001-A_v1080.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 (1080p)
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (1080p)
+#EXTINF:0 tvg-id="W9.fr" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (1080p)
 http://livetv.ktv.zone/11/play.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR (1080p)
+#EXTINF:0 tvg-id="CStar.fr" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR (1080p)
 https://stream-10.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1Dany39gnd3OkfEycQUapTfAgEuXCcBLmeh2LOvhvcb)/dm/3/x5idxor/d/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12 (1080p)
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12 (1080p)
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25 (1080p)
+#EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25 (1080p)
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:0 tvg-id="CanalPlus.fr" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR (1080p)
+https://stream-07.ix7.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-WbOpOm5cOmgUSHZYxeCx1ZGeliMkTyqOG-FWVlkBJWz)/cloud/3/x5idy49/d/live-4.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (1080p)
+#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (1080p)
+#EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (1080p)
 https://live-b.cf.dmcdn.net/sec2(RiUcB1FvefbTkgSrzFwj5CCCdsyIV8bpCRAnx2YXLMoCJ6qmK0Xq2igMYA1pt9mirmZmATcoU2yJVjv9ZGCScOh-iPB68SfJb4ZUJnc-6Iw)/dm/3/x3b68jn/d/live-4.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (720p)
+#EXTINF:0 tvg-id="LCI.fr" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (720p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (720p)
+#EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (720p)
 https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Equipe (720p)
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Equipe (720p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY (1080p)
+#EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY (1080p)
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE (1080p)
+#EXTINF:0 tvg-id="RMCDecouverte.fr" tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE (1080p)
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHÔNE ALPES
+#EXTINF:0 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",F3 RHÔNE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://cdn1-gulli.jnsmedia.fr/bundles/jeunesseintegrationgulli/images/header/logo-gulli.png",Gulli (540p)
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (1080p)
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://seeklogo.com/images/P/Paris_Premiere-logo-DAD3641538-seeklogo.com.gif",Paris Premiere (720p)
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/512px-T%C3%A9va_logo_2021.svg.png",Téva (720p)
@@ -54,13 +60,13 @@ https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
 #EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b9/Tiji_2.png/revision/latest/scale-to-width-down/250?cb=20120329114647&path-prefix=ru",Tiji (1080p)
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
-#EXTINF:0 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg",carac1 (1080p)
+#EXTINF:0 tvg-id="RougeTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac1-neg.jpg",carac1 (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
-#EXTINF:0 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac2-neg.jpg",carac2 (720p)
+#EXTINF:0 tvg-id="ONETV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac2-neg.jpg",carac2 (720p)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
-#EXTINF:0 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac3-neg.jpg",carac3 (1080p)
+#EXTINF:0 tvg-id="LFMTV.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac3-neg.jpg",carac3 (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
-#EXTINF:0 tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg",carac4 (1080p)
+#EXTINF:0 tvg-id="CARAC4.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg",carac4 (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
 #EXTINF:-1 channel-id="pluto-60afa1508284e60007163c08" tvg-id="60afa1508284e60007163c08" tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG.png" tvg-chno="1005" group-title="Comédie" , Juste pour Rire
 https://r.mjh.nz/PlutoTV/60afa1508284e60007163c08-alt.m3u8
