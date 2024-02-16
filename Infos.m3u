@@ -1,50 +1,11 @@
-#EXTM3U  x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
-#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (1080p)
-https://live-b.cf.dmcdn.net/sec2(RiUcB1FvefbTkgSrzFwj5CCCdsyIV8bpCRAnx2YXLMoCJ6qmK0Xq2igMYA1pt9mirmZmATcoU2yJVjv9ZGCScOh-iPB68SfJb4ZUJnc-6Iw)/dm/3/x3b68jn/d/live-4.m3u8
-#EXTINF:0 tvg-id="LCI.fr" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (720p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (720p)
-https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (720p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/lemedia.m3u8
-#EXTINF:0 tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (720p)
-https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
-#EXTINF:0 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (1080p)
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:0 tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (1080p)
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:0 tvg-id="PublicSenat.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC-SÉNAT 24H (480p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF (1080p)
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF (1080p)
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:0 tvg-id="I24news.fr" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR (720p)
-https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
-#EXTINF:0 tvg-id="CGTN.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS (576p)
-http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:0 tvg-id="LN24.be" tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 BE (720p)
-https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png",MONACO INFO (720p)
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/sq11nQ1/rdicanada.png",RDI CANADA (720p)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:0 tvg-id="Africa24.af" tvg-logo="https://i.ibb.co/pdnMrZn/a24.png",AFRICA 24 FR (540p)
-https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR (720p)
-https://new.cache-stream.workers.dev/stream/UC25EuGAePOPvPrUA5cmu3dQ/live.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV (480p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
-
-#EXTINF:0 tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://rsrc.s3wfg.com/web/img/logos/tw-financal.png",TV Finance (720p)
-https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
-#EXTINF:0 tvg-id="BSmartTV.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png",B SMART (1080p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/bsmart.m3u8
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1 (720p)
+https://d3awaj0f2u3w26.cloudfront.net/11/media.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2 (720p)
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:0 tvg-id="LEquipe21.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV (720p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
