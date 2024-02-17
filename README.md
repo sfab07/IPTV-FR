@@ -5,4 +5,8 @@ Comme lecteur vidéo, je conseille  :
 - vlc sur différentes plateformes
 - iptv pro sur Android 
 
-Comme plateforme de lecture vidéo gratuite et légale : Mytf1, RakutenTv, PlutoTv, PlexTv.
+Comme plateforme de lecture vidéo gratuite et légale, je conseille : 
+- Mytf1 
+- RakutenTv
+- PlutoTv
+- PlexTv
