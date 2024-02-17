@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1 (1080p)
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA3NjY5ODU2LCJnaWQiOiIyN2I1Nzc4ZS1kMzJjLTRiM2EtYWJhNC00ZDZmY2Q0ODVjMGEiLCJpYXQiOjE3MDc2NTU0NTYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIyN2I1Nzc4ZS1kMzJjLTRiM2EtYWJhNC00ZDZmY2Q0ODVjMGEifQ.ZuYefUOQFtmqbjx0zZrj4Pxckv1_3v6fesB_qo-weiQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png", TF1 Series Films (1080p)
-https://live-tsf-hls.cdn-0.diff.tf1.fr/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8
-#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png", TFX (1080p)
-https://live-tfx-hls.cdn-0.diff.tf1.fr/out/v1/54408d0e39304776bf7b2ce4b1599123/tfx-cmaf/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (1080p)
