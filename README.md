@@ -10,6 +10,7 @@ Comme plateforme de lecture vidéo gratuite et légale, je conseille :
 - RakutenTv
 - PlutoTv
 - PlexTv
+- Xiaomi tv +
 
 Listes alternatives intéressantes :
 - https://allaboutiptv.com/iptv-m3u-playlist-url/
