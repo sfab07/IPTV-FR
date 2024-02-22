@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
-
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 (1080p)
-
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (1080p)
@@ -58,8 +56,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 #EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (720p)
 https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (1080p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:0 tvg-id="Arte.fr" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://arte-cmafhls.akamaized.net/am/cmaf-webonly/095000/095800/095842-001-A_VA/230621005738/medias/095842-001-A_v1080.m3u8
 #EXTINF:0 tvg-id="Numero23.fr" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY (1080p)
@@ -82,3 +80,4 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/11/media.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2 (720p)
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+
