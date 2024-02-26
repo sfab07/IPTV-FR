@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
 #EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR '480p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR (480p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/cstr/cstr.m3u8
 #EXTINF:0 tvg-id="Cherie25.fr" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25 (1080p)
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
@@ -32,9 +32,11 @@ https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
 #EXTINF:0 tvg-id="CARAC4.ch" tvg-logo="https://entremont.netplus.ch/media/image/0/square/carac4-neg.jpg",carac4 (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/smwukb59e5bgk3nvhfok",Noovo (720p)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/54813a041607e478cee2b64e2859ce83ff355280a62bcbe94da6babc656ce3dd.png",Runtime (720p)
 https://i.mjh.nz/SamsungTVPlus/FRBB50000016B.m3u8
-#EXTINF:-1 channel-id="samsung-CHBC3100001SW" tvg-id="CHBC3100001SW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC3100001SW_20231213T103924SQUARE.png_20231213103924.png" tvg-chno="4849" group-title="Switzerland" , Ciné Prime [FR]
+#EXTINF:-1 channel-id="samsung-CHBC3100001SW" tvg-id="CHBC3100001SW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC3100001SW_20231213T103924SQUARE.png_20231213103924.png" tvg-chno="4849" group-title="Switzerland" , Ciné Prime (1080p)
 https://i.mjh.nz/SamsungTVPlus/CHBC3100001SW.m3u8
 #EXTINF:-1 tvg-id="WildSideTv.fr" tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV (720p)
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
@@ -60,9 +62,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (720p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
-#EXTINF:0 tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (720p)
+#EXTINF:0 tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS (720p)
 https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
-#EXTINF:0 tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (1080p)
+#EXTINF:0 tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 (1080p)
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:0 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (1080p)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
