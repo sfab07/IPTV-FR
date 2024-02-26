@@ -1,33 +1,4 @@
 #EXTM3U  x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
-#EXTINF:0 tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://rsrc.s3wfg.com/web/img/logos/tw-financal.png",TV Finance (720p)
-https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
-#EXTINF:0 tvg-id="BSmartTV.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png",B SMART (1080p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/bsmart.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/443jKxq/techco.png",BFM TECH&CO (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV (480p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
-
-#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-id="LCI.fr" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (720p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (1080p)
-https://live-b.cf.dmcdn.net/sec2(RiUcB1FvefbTkgSrzFwj5CCCdsyIV8bpCRAnx2YXLMoCJ6qmK0Xq2igMYA1pt9mirmZmATcoU2yJVjv9ZGCScOh-iPB68SfJb4ZUJnc-6Iw)/dm/3/x3b68jn/d/live-4.m3u8
-#EXTINF:0 tvg-id="FranceInfo.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO (720p)
-https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8
-#EXTINF:0 tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (720p)
-https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
-#EXTINF:0 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (1080p)
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:0 tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (1080p)
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (720p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/lemedia.m3u8
-#EXTINF:0 tvg-id="PublicSenat.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC-SÉNAT 24H (480p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF (1080p)
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
