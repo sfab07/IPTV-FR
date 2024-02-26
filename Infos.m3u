@@ -1,9 +1,5 @@
 #EXTM3U  x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip"
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF (1080p)
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:0 tvg-logo="https://pressclub.fr/wp-content/uploads/2017/03/logo-figaro-live.jpg",LE FIGARO IDF (1080p)
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:0 tvg-id="I24news.fr" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",I24 NEWS FR (720p)
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:0 tvg-id="CGTN.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS (576p)
