@@ -6,11 +6,16 @@ Comme lecteur vidéo, je conseille  :
 - iptv pro sur Android 
 
 Comme plateforme de lecture vidéo gratuite et légale, je conseille : 
-- Mytf1 
+- Mytf1
+- Arte
+- FranceTv
 - RakutenTv
 - PlutoTv
+- Runtime
+- XiaomiTv 
+- MyTelevision
+- Molotov
 - PlexTv
-- Xiaomi tv +
 
 Listes alternatives intéressantes :
 - https://allaboutiptv.com/iptv-m3u-playlist-url/
