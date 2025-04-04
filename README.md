@@ -12,7 +12,7 @@ Comme plateforme de lecture vidéo gratuite et légale, je conseille :
 - RakutenTv
 - PlutoTv
 - Runtime
-- XiaomiTv 
+- XiaomiTv+
 - MyTelevision
 - Molotov
 - PlexTv
