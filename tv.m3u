@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TF1" group-title="Généraliste" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" tvg-id="" x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.zip",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-name="FRANCE 2" group-title="Généraliste" tvg-logo="https://www.france.tv/image/carre/265/265/c/7/t/5df189a3-php6kjt7c_png.jpg" tvg-id="",FRANCE 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-name="FRANCE 3" group-title="Généraliste" tvg-logo="https://www.france.tv/image/carre/265/265/i/v/v/050e719f-phpjxpvvi_png.jpg" tvg-id="",FRANCE 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-name="FRANCE 4" group-title="Généraliste" tvg-logo="https://www.france.tv/image/carre/265/265/g/7/f/f4b7de92-php2isf7g_png.jpg" tvg-id="",FRANCE 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-name="FRANCE 5" group-title="Généraliste" tvg-logo="https://www.france.tv/image/carre/265/265/3/v/x/9b18289c-phptcexv3_png.jpg" tvg-id="",FRANCE 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-name="ARTE" group-title="Généraliste" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" tvg-id="",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-name="M6" group-title="Généraliste" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" tvg-id="",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1 tvg-name="CARAC 1 HD" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="RougeTV.ch",CARAC 1
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
+#EXTINF:-1 tvg-name="CARAC 2 CH HD" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="ONETV.ch",CARAC 2
+https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
+#EXTINF:-1 tvg-name="CARAC 3 HD" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="LFMTV.ch",CARAC 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
+#EXTINF:-1 tvg-name="CARAC4" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="CARAC4.ch",CARAC 4
+https://edge17.vedge.infomaniak.com/livecast/ik%3acompack_media_1/playlist.m3u8
+#EXTINF:-1 tvg-name="CARAC5" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="CARAC5.ch",CARAC 5
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
+#EXTINF:-1 tvg-name="RTS1" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="CARAC5.ch",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 tvg-name="RTS2" group-title="Généraliste" tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png" tvg-id="CARAC5.ch",RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 tvg-name="mytvchannel (720p)" group-title="Cinéma" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/4b/a2/dc/4ba2dcdc-b941-5769-7917-f6d49feef663/source/512x512bb.jpg" tvg-id="",mytvchannel (720p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MaisonEtTravaux.fr" group-title="TV" tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png" tvg-id="",MaisonEtTravaux.fr
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 tvg-name="Savoir Média" group-title="Canada" tvg-logo="https://i.imgur.com/pa4wOVY.png" tvg-id="CFTUDT.ca",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-name="BSmartTV" group-title="Finance" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png" tvg-id="",BSmartTV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
+
+#EXTINF:-1 tvg-name="FUN RADIO TV BE" group-title="Musique" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" tvg-id="",FUN RADIO TV BE
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-name="ClubbingTV" group-title="Musique" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" tvg-id="",ClubbingTV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-name="GÉNÉRATIONS TV" group-title="Musique" tvg-logo="https://www.urgencemedia.com/assets/images/radios/generations.png" tvg-id="", GÉNÉRATIONS TV
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-name="Trace Latina" group-title="Musique" tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png" tvg-id="",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Urban" group-title="Musique" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" tvg-id="",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Brazuca" group-title="Musique" tvg-logo="https://cdn.mitvstatic.com/channels/br_trace-brazuca_m.png" tvg-id="", Trace Brazuca
+https://trace-brazuca-lg-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBLACK Africa" group-title="Musique" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" tvg-id="",BBLACK Africa
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 tvg-name="BBLACK Caribbean" group-title="Musique" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" tvg-id="",BBLACK Caribbean
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-name="BBLACK Classik" group-title="Musique" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" tvg-id="",BBLACK Classik
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-name="XITE Hits" group-title="Musique" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/whodvg0jf4y8fxfc0odm" tvg-id="",XITE Hits
+https://xite-germany-lg.amagi.tv/playlist.m3u8
